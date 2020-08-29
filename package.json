@@ -1,0 +1,24 @@
+{
+  "name": "coming-soon-website",
+  "version": "1.0.0",
+  "description": "Coming soon webpage for shop site ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atharva21-stack/coming-soon-website.git"
+  },
+  "keywords": [
+    "comingsoon",
+    "website",
+    "webpage"
+  ],
+  "author": "Atharva Chandwadkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atharva21-stack/coming-soon-website/issues"
+  },
+  "homepage": "https://github.com/Atharva21-stack/coming-soon-website#readme"
+}
